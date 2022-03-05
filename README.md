@@ -3,11 +3,17 @@ Welcome to the Montyverse. In this secruity breach mod a Monty will spawn every 
 ## Installing Guide
 ### Setup and installation
 Go to releases, than download the pack. After that, download [UML](https://github.com/RussellJerome/UnrealModLoader/releases/tag/v2.2.0)
+
 Run fnaf secuirty breach with UML open. Then close it. This will setup the folder path you need **(Skip this if you have already used UML or have downloaded a skizzum mod via it's launcher)**
+
 Now drag the pak file into (game path)/fnaf9/Content/Paks/LogicMods
-Boom, the mod is now installed, here's how to use it now
+The mod should be ready now
 ### Using the mod
+First open up UML and then secruity breach.
+Now play through the game until you get to the spot you want to activate the mod in (I would recommend rockstar row at 11:30 PM)
+
 When you are in your desired spot and you want to activate the mod, press F1, navigate to Logic Mods -> Montyverse -> Mod buttons
+
 Now click start. The chaoes has now begun!
 ## Editing source code
 ### Setup
@@ -15,6 +21,7 @@ So you want to to modify this mod, good for you. Here's waht you'll need.
 1. Fnaf secuirty breach
 2. Unreal Engine 4.25 **(Not plus)**
 3. A coumpter
+
 Download the source code and then open up the uproject file in ue 4.25
 Now go to Edit -> project settings -> packaging then set generate chunks to true
 After that go to Edit -> editor perfernces -> experimental -> user interface then check allow ChunkID assigments
