@@ -6,7 +6,7 @@ Go to releases, then download the pack. After that, download [UML](https://githu
 
 Run fnaf security breach with UML open. Then close it. This will setup the folder path you need **(Skip this if you have already used UML or have downloaded a skizzum mod via it's launcher)**
 
-Now drag the pak file into (game path)/fnaf9/Content/Paks/LogicMods
+Now drag the pak file into (game path)/fnaf9/Content/Paks/LogicMods, and the dll file into (game path)/fnaf9/Content/CoreMods.
 The mod should be ready now
 ### Using the mod
 First open up UML and then secruity breach.
