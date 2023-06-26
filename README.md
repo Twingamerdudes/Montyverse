@@ -1,4 +1,4 @@
-**There is no source code for 0.0.4 since I moved to a notblanana's codebase and I'm too lazy to update this repo**
+**There is no source code for 0.0.4 since I moved to a notblanana's codebase and I'm too lazy to update this repo. Go to this [repo](https://github.com/Twingamerdudes/My-FNAF-Workspace/tree/main) to find 0.0.4 source code**
 
 # Montyverse
 Welcome to the Montyverse. In this security breach mod, a Monty will spawn every 15 seconds.
