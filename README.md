@@ -1,20 +1,22 @@
+**There is no source code for 0.0.4 since I moved to a notblanana's codebase and I'm too lazy to update this repo**
+
 # Montyverse
-Welcome to the Montyverse. In this secruity breach mod a Monty will spawn every 15 seconds.
+Welcome to the Montyverse. In this security breach mod, a Monty will spawn every 15 seconds.
 ## Installing Guide
 ### Setup and installation
 Go to releases, then download the pack. After that, download [UML](https://github.com/RussellJerome/UnrealModLoader/releases/tag/v2.2.0)
 
-Run fnaf security breach with UML open. Then close it. This will setup the folder path you need **(Skip this if you have already used UML or have downloaded a skizzum mod via it's launcher)**
+Run fnaf security breach with UML open. Then close it. This will setup the folder path you need **(Skip this if you have already used UML or have downloaded a Skizzum mod via its launcher)**
 
-Now drag the pak file into (game path)/fnaf9/Content/Paks/LogicMods, and the dll file into (game path)/fnaf9/Content/CoreMods.
+Now drag the pak file into (game path)/fnaf9/Content/Paks/LogicMods, and the DLL file into (game path)/fnaf9/Content/CoreMods.
 The mod should be ready now
 ### Using the mod
-First open up UML and then secruity breach.
+First, open up UML and then security breach.
 Now play through the game until you get to the spot you want to activate the mod in (I would recommend rockstar row at 11:30 PM)
 
 When you are in your desired spot and you want to activate the mod, press F1, navigate to Logic Mods -> Montyverse -> Mod buttons
 
-Now click start. The chaoes has now begun!
+Now click start. The chaos has now begun!
 ## Editing source code
 ### Setup
 So you want to modify this mod, good for you. Here's what you'll need.
